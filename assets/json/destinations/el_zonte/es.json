@@ -1,0 +1,124 @@
+{
+  "id": "el_zonte",
+  "name": "El Zonte",
+  "legend": "El zonte es una hermosa playa con increíbles atardeceres, clima y pupusas.",
+  "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3879.6221574894516!2d-89.44298077346878!3d13.497364736868553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f7d2b00a48b9f39%3A0xf1bc8bfa589f5ec4!2sEl%20Zonte!5e0!3m2!1ses!2ssv!4v1722567163425!5m2!1ses!2ssv",
+  "community": {
+    "id": "bitcoin_beach",
+    "legend": "Bitcoin Beach marcó el comienzo de la adopción de Bitcoin en El Salvador. Desde 2019, Bitcoin Beach ha logrado incorporar a comerciantes a lo largo de la playa. Ahora, Bitcoin Beach se posiciona como una de las comunidades de Bitcoin más fuertes en El Salvador.",
+    "location": "Playa El Zonte, La Libertad"
+  },
+  "articles": [],
+  "places": [
+    {
+      "id": "accomodation",
+      "name": "Hospedaje",
+      "places": [
+        {
+          "id": "palo_verde",
+          "name": "Palo Verde",
+          "url": "https://paloverdehotel.com",
+          "accepts_btc": true
+        },
+        {
+          "id": "beach_break",
+          "name": "Beach Break",
+          "url": "https://thebeachbreakhotel.com/?lang=en",
+          "accepts_btc": true
+        },
+        {
+          "id": "olas_permanentes",
+          "name": "Olas Permanentes",
+          "url": "https://olaspermanentes.surf",
+          "accepts_btc": true
+        },
+        {
+          "id": "michanti",
+          "name": "Michanti",
+          "url": "https://hotelmichanti.com",
+          "accepts_btc": true
+        }
+      ]
+    },
+    {
+      "id": "restaurants",
+      "name": "Restaurantes",
+      "places": [
+        {
+          "id": "olor_de_mar_pacifico",
+          "name": "Olor de Mar Pacífico",
+          "url": "https://www.instagram.com/olordemarrestaurante/",
+          "accepts_btc": false
+        },
+        {
+          "id": "covana_sea_side",
+          "name": "Covana Seaside Kitchen",
+          "url": "https://www.purosurf.com/restaurant",
+          "accepts_btc": false
+        },
+        {
+          "id": "nan_tal",
+          "name": "Nan Tal",
+          "url": "https://nantalcocina.com",
+          "accepts_btc": false
+        },
+        {
+          "id": "vista_mar_zonte_restaurante",
+          "name": "Vista Mar Zonte Restaurante",
+          "url": "https://www.facebook.com/profile.php?id=100063681005830&mibextid=ZbWKwL",
+          "accepts_btc": false
+        }
+      ]
+    },
+    {
+      "id": "cafes",
+      "name": "Cafeterías",
+      "places": [
+        {
+          "id": "canegue_cafe",
+          "name": "Canegue Cafe",
+          "url": "https://g.co/kgs/C1tyD7v",
+          "accepts_btc": false
+        },
+        {
+          "id": "point_break_cafe",
+          "name": "Point Break Cafe",
+          "url": "https://g.co/kgs/nxWc8eS",
+          "accepts_btc": true
+        },
+        {
+          "id": "awilda",
+          "name": "awilda",
+          "url": "https://www.instagram.com/awilda.sv",
+          "accepts_btc": false
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "surf_lessons",
+      "name": "Lecciones de surf",
+      "places": [
+        {
+          "id": "surfing_four_years",
+          "name": "Surfing Four Years",
+          "url": "https://www.surfingyourfears.com",
+          "accepts_btc": false
+        },
+        {
+          "id": "escuela_de_surf_el_zonte",
+          "name": "Escuela de Surf El Zonte",
+          "url": "https://www.instagram.com/schoolgoodsurfelzonte",
+          "accepts_btc": false
+        },
+        {
+          "id": "los_tres_hermanos",
+          "name": "Escuela de Surf Los 3 Hermanos",
+          "url": "https://www.los3hermanos.surf",
+          "accepts_btc": false
+        }
+      ]
+    }
+  ]
+}
