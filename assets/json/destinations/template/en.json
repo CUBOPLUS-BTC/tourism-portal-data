@@ -1,0 +1,40 @@
+{
+  "id": "",
+  "name": "",
+  "legend": "",
+  "map_url": "",
+  "community": {
+    "id": "",
+    "legend": "",
+    "location": ""
+  },
+  "articles": [],
+  "places": [
+    {
+      "id": "",
+      "name": "",
+      "places": [
+        {
+          "id": "",
+          "name": "",
+          "url": "",
+          "accepts_btc": false
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "",
+      "name": "",
+      "places": [
+        {
+          "id": "",
+          "name": "",
+          "url": "",
+          "accepts_btc": false
+        }
+      ]
+    }
+  ]
+}
