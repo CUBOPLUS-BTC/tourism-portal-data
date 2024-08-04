@@ -25,7 +25,7 @@ This repository contains the necessary resources for the El Salvador tourism por
 
 1. **Add New Content**:
 
-   - **Images**: Add new images in the appropriate folder within `assets/images/`.
+   - **Images**: Add new images in the appropriate folder within `assets/images/`, be sure no image has the same name as the new one.
    - **Data**: Edit the corresponding JSON files in `assets/json/`.
 
 2. **Update Existing Content**:
@@ -38,6 +38,7 @@ This repository contains the necessary resources for the El Salvador tourism por
 
 ## Considerations
 
+- Ids' must be in snake_case.
 - Ensure all images are optimized for the web with .webp format.
 - Maintain consistency in the structure of the JSON files.
 - For multilingual support, ensure that each destination and community has JSON files for both English and Spanish.
