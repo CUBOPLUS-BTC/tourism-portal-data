@@ -5,7 +5,9 @@
   "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3879.6221574894516!2d-89.44298077346878!3d13.497364736868553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f7d2b00a48b9f39%3A0xf1bc8bfa589f5ec4!2sEl%20Zonte!5e0!3m2!1ses!2ssv!4v1722567163425!5m2!1ses!2ssv",
   "community": {
     "id": "bitcoin_beach",
+    "title": "Bitcoin Beach",
     "legend": "Bitcoin beach marked the beggining of Bitcoin adoption in El Salvador, since 2019 Bitcoin Beach has reached to onboard merchants across the beach. Now Bitcoin beach is positioned as one of the strongest Bitcoin communities in El Salvador",
+    "center": false,
     "leaders": [{
       "id": "chimbera",
       "name": "Roman Martínez",
