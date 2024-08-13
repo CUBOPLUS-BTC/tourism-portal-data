@@ -1,0 +1,47 @@
+{
+  "id": "id of the destination to locate in the assets folder",
+  "title": "name of the destination shown in the website",
+  "legend": "description of the destination shown in the website",
+  "map_url": "link to embed google maps",
+  "community": {
+    "id": "id of the community to locate in the assets folder",
+    "legend": "description of the community shown in the website",
+    "leaders": [{
+      "id": "id of the picture at the assets folder",
+      "name": "name to show in the website",
+      "role": "rol of the leader in the community, shown in the website"
+    }],
+    "social": {
+      "website": "link of the website",
+      "twitter": "link of the twitter",
+      "instagram": "link of the instagram",
+      "facebook": "link of the facebook"
+    }
+  },
+  "places": [
+    {
+      "id": "id of the place to locate in the folder",
+      "title": "name of the section shown in the website",
+      "places": [
+        {
+          "id": "id of the place to locate image in assets",
+          "title": "title of the place shown in the site",
+          "url": "url to something of the place"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "id of the activity to locate in assets folder",
+      "title": "title of the section shown in the site",
+      "places": [
+        {
+          "id": "id of the activity to locate image in ./assets/activites/[activity-id]/[place-id]",
+          "title": "title of the place shown in the site",
+          "url": "url to something of the place, social media, site, article, etc."
+        }
+      ]
+    }
+  ]
+}

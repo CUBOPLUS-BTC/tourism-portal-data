@@ -6,9 +6,28 @@
   "community": {
     "id": "bitcoin_beach",
     "legend": "Bitcoin Beach marcó el comienzo de la adopción de Bitcoin en El Salvador. Desde 2019, Bitcoin Beach ha logrado incorporar a comerciantes a lo largo de la playa. Ahora, Bitcoin Beach se posiciona como una de las comunidades de Bitcoin más fuertes en El Salvador.",
-    "location": "Playa El Zonte, La Libertad"
+    "leaders": [{
+      "id": "chimbera",
+      "name": "Roman Martínez",
+      "role": "Co-fundador"
+    },
+    {
+      "id": "mike_peterson",
+      "name": "Mike Peterson",
+      "role": "Co-fundador"
+    },
+    {
+      "id": "pete_de_soto",
+      "name": "Pete DeSoto",
+      "role": "Co-fundador"
+    }],
+    "social": {
+      "website": "https://www.bitcoinbeach.com",
+      "twitter": "https://x.com/Bitcoinbeach",
+      "instagram": "https://www.instagram.com/bitcoinbeach_sv/",
+      "facebook": "https://www.facebook.com/Bitcoinbeachsv"
+    }
   },
-  "articles": [],
   "places": [
     {
       "id": "accomodation",
@@ -17,26 +36,22 @@
         {
           "id": "palo_verde",
           "name": "Palo Verde",
-          "url": "https://paloverdehotel.com",
-          "accepts_btc": true
+          "url": "https://paloverdehotel.com"
         },
         {
           "id": "beach_break",
           "name": "Beach Break",
-          "url": "https://thebeachbreakhotel.com/?lang=en",
-          "accepts_btc": true
+          "url": "https://thebeachbreakhotel.com/?lang=en"
         },
         {
           "id": "olas_permanentes",
           "name": "Olas Permanentes",
-          "url": "https://olaspermanentes.surf",
-          "accepts_btc": true
+          "url": "https://olaspermanentes.surf"
         },
         {
           "id": "michanti",
           "name": "Michanti",
-          "url": "https://hotelmichanti.com",
-          "accepts_btc": true
+          "url": "https://hotelmichanti.com"
         }
       ]
     },
@@ -47,26 +62,22 @@
         {
           "id": "olor_de_mar_pacifico",
           "name": "Olor de Mar Pacífico",
-          "url": "https://www.instagram.com/olordemarrestaurante/",
-          "accepts_btc": false
+          "url": "https://www.instagram.com/olordemarrestaurante/"
         },
         {
           "id": "covana_sea_side",
           "name": "Covana Seaside Kitchen",
-          "url": "https://www.purosurf.com/restaurant",
-          "accepts_btc": false
+          "url": "https://www.purosurf.com/restaurant"
         },
         {
           "id": "nan_tal",
           "name": "Nan Tal",
-          "url": "https://nantalcocina.com",
-          "accepts_btc": false
+          "url": "https://nantalcocina.com"
         },
         {
           "id": "vista_mar_zonte_restaurante",
           "name": "Vista Mar Zonte Restaurante",
-          "url": "https://www.facebook.com/profile.php?id=100063681005830&mibextid=ZbWKwL",
-          "accepts_btc": false
+          "url": "https://www.facebook.com/profile.php?id=100063681005830&mibextid=ZbWKwL"
         }
       ]
     },
@@ -77,20 +88,17 @@
         {
           "id": "canegue_cafe",
           "name": "Canegue Cafe",
-          "url": "https://g.co/kgs/C1tyD7v",
-          "accepts_btc": false
+          "url": "https://g.co/kgs/C1tyD7v"
         },
         {
           "id": "point_break_cafe",
           "name": "Point Break Cafe",
-          "url": "https://g.co/kgs/nxWc8eS",
-          "accepts_btc": true
+          "url": "https://g.co/kgs/nxWc8eS"
         },
         {
           "id": "awilda",
           "name": "awilda",
-          "url": "https://www.instagram.com/awilda.sv",
-          "accepts_btc": false
+          "url": "https://www.instagram.com/awilda.sv"
         }
       ]
     }
@@ -103,20 +111,17 @@
         {
           "id": "surfing_four_years",
           "name": "Surfing Four Years",
-          "url": "https://www.surfingyourfears.com",
-          "accepts_btc": false
+          "url": "https://www.surfingyourfears.com"
         },
         {
           "id": "escuela_de_surf_el_zonte",
           "name": "Escuela de Surf El Zonte",
-          "url": "https://www.instagram.com/schoolgoodsurfelzonte",
-          "accepts_btc": false
+          "url": "https://www.instagram.com/schoolgoodsurfelzonte"
         },
         {
           "id": "los_tres_hermanos",
           "name": "Escuela de Surf Los 3 Hermanos",
-          "url": "https://www.los3hermanos.surf",
-          "accepts_btc": false
+          "url": "https://www.los3hermanos.surf"
         }
       ]
     }

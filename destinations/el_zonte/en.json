@@ -1,0 +1,129 @@
+{
+  "id": "el_zonte",
+  "title": "El Zonte",
+  "legend": "El Zonte is a lovely beach with amazing weather, waves, sunsets and pupusas.",
+  "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3879.6221574894516!2d-89.44298077346878!3d13.497364736868553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f7d2b00a48b9f39%3A0xf1bc8bfa589f5ec4!2sEl%20Zonte!5e0!3m2!1ses!2ssv!4v1722567163425!5m2!1ses!2ssv",
+  "community": {
+    "id": "bitcoin_beach",
+    "legend": "Bitcoin beach marked the beggining of Bitcoin adoption in El Salvador, since 2019 Bitcoin Beach has reached to onboard merchants across the beach. Now Bitcoin beach is positioned as one of the strongest Bitcoin communities in El Salvador",
+    "leaders": [{
+      "id": "chimbera",
+      "name": "Roman Martínez",
+      "role": "Co-founder"
+    },
+    {
+      "id": "mike_peterson",
+      "name": "Mike Peterson",
+      "role": "Co-founder"
+    },
+    {
+      "id": "pete_de_soto",
+      "name": "Pete DeSoto",
+      "role": "Co-founder"
+    }],
+    "social": {
+      "website": "https://www.bitcoinbeach.com",
+      "twitter": "https://x.com/Bitcoinbeach",
+      "instagram": "https://www.instagram.com/bitcoinbeach_sv/",
+      "facebook": "https://www.facebook.com/Bitcoinbeachsv"
+    }
+  },
+  "places": [
+    {
+      "id": "accomodation",
+      "title": "Accomodation",
+      "places": [
+        {
+          "id": "palo_verde",
+          "title": "Palo Verde",
+          "url": "https://paloverdehotel.com"
+        },
+        {
+          "id": "beach_break",
+          "title": "Beach Break",
+          "url": "https://thebeachbreakhotel.com/?lang=en"
+        },
+        {
+          "id": "olas_permanentes",
+          "title": "Olas Permanentes",
+          "url": "https://olaspermanentes.surf"
+        },
+        {
+          "id": "michanti",
+          "title": "Michanti",
+          "url": "https://hotelmichanti.com"
+        }
+      ]
+    },
+    {
+      "id": "restaurants",
+      "title": "Restaurants",
+      "places": [
+        {
+          "id": "olor_de_mar_pacifico",
+          "title": "Olor de Mar Pacífico",
+          "url": "https://www.instagram.com/olordemarrestaurante/"
+        },
+        {
+          "id": "covana_sea_side",
+          "title": "Covana Seaside Kitchen",
+          "url": "https://www.purosurf.com/restaurant"
+        },
+        {
+          "id": "nan_tal",
+          "title": "Nan Tal",
+          "url": "https://nantalcocina.com"
+        },
+        {
+          "id": "vista_mar_zonte_restaurante",
+          "title": "Vista Mar Zonte Restaurante",
+          "url": "https://www.facebook.com/profile.php?id=100063681005830&mibextid=ZbWKwL"
+        }
+      ]
+    },
+    {
+      "id": "cafes",
+      "title": "Cafes",
+      "places": [
+        {
+          "id": "canegue_cafe",
+          "title": "Canegue Cafe",
+          "url": "https://g.co/kgs/C1tyD7v"
+        },
+        {
+          "id": "point_break_cafe",
+          "title": "Point Break Cafe",
+          "url": "https://g.co/kgs/nxWc8eS"
+        },
+        {
+          "id": "awilda",
+          "title": "awilda",
+          "url": "https://www.instagram.com/awilda.sv"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "surf_lessons",
+      "title": "Surf Lessons",
+      "places": [
+        {
+          "id": "surfing_four_years",
+          "title": "Surfing Four Years",
+          "url": "https://www.surfingyourfears.com"
+        },
+        {
+          "id": "escuela_de_surf_el_zonte",
+          "title": "Escuela de Surf El Zonte",
+          "url": "https://www.instagram.com/schoolgoodsurfelzonte"
+        },
+        {
+          "id": "los_3_hermanos",
+          "title": "Escuela de Surf Los 3 Hermanos",
+          "url": "https://www.los3hermanos.surf"
+        }
+      ]
+    }
+  ]
+}

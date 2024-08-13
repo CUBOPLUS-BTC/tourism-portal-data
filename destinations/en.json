@@ -1,0 +1,39 @@
+{
+    "events": [{
+        "title": "Adopting Bitcoin 2024",
+        "type": "Conference",
+        "start": "2024-11-15",
+        "end": "2024-11-17",
+        "location": "Nuevo Cuscatlán",
+        "url": "https://sv24.adoptingbitcoin.org"
+    }],
+    "communities": [{
+        "destination": "berlin",
+        "id": "bitcoin_berlin",
+        "name": "Bitcoin Berlín",
+        "location": "Berlín, Usulután"
+    },
+    {
+        "destination": "el_zonte",
+        "id": "bitcoin_beach",
+        "name": "Bitcoin Beach",
+        "location": "El Zonte, La Libertad"
+    }],
+    "destinations": [{
+        "id": "el_zonte",
+        "title": "El Zonte",
+        "location": "La Libertad, El Salvador"
+    }],
+    "onboard": [{
+        "id": "accomodation",
+        "title": "Accomodation",
+        "places": [{
+            "id": "palo_verde",
+            "title": "Palo Verde",
+            "legend": "Sustainable Hotel",
+            "destination": "el_zonte",
+            "location": "El Zonte, La Libertad",
+            "url": "https://paloverdehotel.com"
+        }]
+    }]
+}
