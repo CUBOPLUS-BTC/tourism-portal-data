@@ -1,0 +1,118 @@
+{
+  "id": "berlin",
+  "title": "Berlín",
+  "legend": "Berlín, Usulután, es un pueblo pintoresco en las montañas de El Salvador, conocido por su clima frío, vistas impresionantes y su producción de café. Es un destino tranquilo para explorar su naturaleza y experimentar la cultura local.",
+  "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7759.222109285519!2d-88.5334217525695!3d13.498047847471415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f7b4b08baf855b7%3A0xa8e6b949584ec35a!2zQmVybMOtbg!5e0!3m2!1ses!2ssv!4v1723580251703!5m2!1ses!2ssv",
+  "community": {
+    "id": "bitcoin_berlin",
+    "title": "Bitcoin Berlín",
+    "legend": "Construyendo una economía circular #Bitcoine en #BerlínElSalvador",
+    "center": true,
+    "leaders": [
+      {
+        "id": "gerardo_linares",
+        "name": "Gerardo Linares",
+        "role": "Co-Fundador"
+      },
+      {
+        "id": "evelyn_lemus",
+        "name": "Evelyn Lemus",
+        "role": "Co-Fundadora"
+      }
+    ],
+    "social": {
+      "website": "",
+      "twitter": "https://x.com/BitcoinBerlinSV",
+      "instagram": "",
+      "facebook": ""
+    }
+  },
+  "places": [
+    {
+      "id": "accomodation",
+      "title": "Hospedaje",
+      "places": [
+        {
+          "id": "brisas_de_berlin_berlin",
+          "title": "Brisas de Berlín",
+          "url": "https://www.instagram.com/hostalbrisasdeberlin/"
+        },
+        {
+          "id": "la_fuente_berlin",
+          "title": "Hotel la Fuente",
+          "url": "https://www.facebook.com/profile.php?id=100065575595811"
+        },
+        {
+          "id": "the_palace_berlin",
+          "title": "Hotel The Palace",
+          "url": "https://www.booking.com/hotel/sv/the-palace.es.html"
+        },
+        {
+          "id": "finca_paniagua_berlin",
+          "title": "Finca Paniagua",
+          "url": "https://maps.app.goo.gl/AKTcBozucdDX83r78"
+        }
+      ]
+    },
+    {
+      "id": "restaurants",
+      "title": "Restaurantes",
+      "places": [
+        {
+          "id": "mexicana_martitas_berlin",
+          "title": "Comida mexicana martitas",
+          "url": "https://maps.app.goo.gl/yfuaiEzkhF4FsmPA6"
+        },
+        {
+          "id": "comedor_marlens_berlin",
+          "title": "Comedor Marlen's",
+          "url": "https://maps.app.goo.gl/urzXhLEALpfkAifeA"
+        },
+        {
+          "id": "fast_delivery_pizza_berlin",
+          "title": "Fast Delivery Pizza",
+          "url": "https://maps.app.goo.gl/uaB51yVFMKsdRY8J8"
+        },
+        {
+          "id": "rustico_grill_drinks_berlin",
+          "title": "Rústico Grill-Drinks",
+          "url": "https://www.facebook.com/profile.php?id=100055602850064"
+        }
+      ]
+    },
+    {
+      "id": "cafes",
+      "title": "Cafeterías",
+      "places": [
+        {
+          "id": "cafe_303_berlin",
+          "title": "Café 303",
+          "url": "https://maps.app.goo.gl/JDz1JNabQGtrwquSA"
+        },
+        {
+          "id": "good_coffee_berlin",
+          "title": "Good Coffee",
+          "url": "https://maps.app.goo.gl/wW3qnsJTndRxLt3E7"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "parks",
+      "title": "Parques",
+      "places": [
+        {
+          "id": "ecoparque_berlin",
+          "title": "Eco Parque",
+          "url": "https://maps.app.goo.gl/4d24LfndFRgnuBz57"
+        },
+        {
+          "id": "parque_berlin",
+          "title": "Parque de Berlín",
+          "url": "https://maps.app.goo.gl/FW6NVLdmSnJbw58y8"
+        }
+      ]
+    }
+  ]
+}
