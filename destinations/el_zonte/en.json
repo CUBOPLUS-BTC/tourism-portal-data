@@ -34,22 +34,22 @@
       "title": "Accomodation",
       "places": [
         {
-          "id": "palo_verde",
+          "id": "palo_verde_el_zonte",
           "title": "Palo Verde",
           "url": "https://paloverdehotel.com"
         },
         {
-          "id": "beach_break",
+          "id": "beach_break_el_zonte",
           "title": "Beach Break",
           "url": "https://thebeachbreakhotel.com/?lang=en"
         },
         {
-          "id": "olas_permanentes",
+          "id": "olas_permanentes_el_zonte",
           "title": "Olas Permanentes",
           "url": "https://olaspermanentes.surf"
         },
         {
-          "id": "michanti",
+          "id": "michanti_el_zonte",
           "title": "Michanti",
           "url": "https://hotelmichanti.com"
         }
@@ -60,22 +60,22 @@
       "title": "Restaurants",
       "places": [
         {
-          "id": "olor_de_mar_pacifico",
+          "id": "olor_de_mar_pacifico_el_zonte",
           "title": "Olor de Mar Pacífico",
           "url": "https://www.instagram.com/olordemarrestaurante/"
         },
         {
-          "id": "covana_sea_side",
+          "id": "covana_sea_side_el_zonte",
           "title": "Covana Seaside Kitchen",
           "url": "https://www.purosurf.com/restaurant"
         },
         {
-          "id": "nan_tal",
+          "id": "nan_tal_el_zonte",
           "title": "Nan Tal",
           "url": "https://nantalcocina.com"
         },
         {
-          "id": "vista_mar_zonte_restaurante",
+          "id": "vista_mar_zonte_restaurante_el_zonte",
           "title": "Vista Mar Zonte Restaurante",
           "url": "https://www.facebook.com/profile.php?id=100063681005830&mibextid=ZbWKwL"
         }
@@ -86,17 +86,17 @@
       "title": "Cafes",
       "places": [
         {
-          "id": "canegue_cafe",
+          "id": "canegue_cafe_el_zonte",
           "title": "Canegue Cafe",
           "url": "https://g.co/kgs/C1tyD7v"
         },
         {
-          "id": "point_break_cafe",
+          "id": "point_break_cafe_el_zonte",
           "title": "Point Break Cafe",
           "url": "https://g.co/kgs/nxWc8eS"
         },
         {
-          "id": "awilda",
+          "id": "awilda_el_zonte",
           "title": "awilda",
           "url": "https://www.instagram.com/awilda.sv"
         }
@@ -109,7 +109,7 @@
       "title": "Surf Lessons",
       "places": [
         {
-          "id": "surfing_four_years",
+          "id": "surfing_four_years_el_zonte",
           "title": "Surfing Four Years",
           "url": "https://www.surfingyourfears.com"
         },
@@ -119,7 +119,7 @@
           "url": "https://www.instagram.com/schoolgoodsurfelzonte"
         },
         {
-          "id": "los_3_hermanos",
+          "id": "los_3_hermanos_el_zonte",
           "title": "Escuela de Surf Los 3 Hermanos",
           "url": "https://www.los3hermanos.surf"
         }
