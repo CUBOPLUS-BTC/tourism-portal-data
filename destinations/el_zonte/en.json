@@ -7,9 +7,8 @@
     "id": "bitcoin_beach",
     "title": "Bitcoin Beach",
     "legend": "Bitcoin beach marked the beggining of Bitcoin adoption in El Salvador, since 2019 Bitcoin Beach has reached to onboard merchants across the beach. Now Bitcoin beach is positioned as one of the strongest Bitcoin communities in El Salvador",
-    "center": false,
     "leaders": [{
-      "id": "chimbera",
+      "id": "roman_martinez",
       "name": "Roman Martínez",
       "role": "Co-founder"
     },
@@ -19,7 +18,7 @@
       "role": "Co-founder"
     },
     {
-      "id": "pete_de_soto",
+      "id": "pete_desoto",
       "name": "Pete DeSoto",
       "role": "Co-founder"
     }],
