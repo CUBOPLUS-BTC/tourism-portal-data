@@ -140,57 +140,57 @@
       "places": [
         {
           "id": "hostal_cielo_azul_san_salvador",
-          "title": "Hostal Cielo Azul",
+          "title": "Hostal Cielo Azul | San Salvador, San Salvador",
           "url": "https://www.facebook.com/profile.php?id=100063623800680"
         },
         {
           "id": "la_zona_hostel_san_salvador",
-          "title": "La Zona Hostel",
+          "title": "La Zona Hostel | San Salvador, San Salvador",
           "url": "http://www.zonahostel.com/"
         },
         {
           "id": "hotel_sueños_san_salvador",
-          "title": "Hotel Sueños",
+          "title": "Hotel Sueños | San Salvador, San Salvador",
           "url": "https://maps.app.goo.gl/bdRhxK8TbErBrrS46"
         },
         {
           "id": "brisas_de_berlin_berlin",
-          "title": "Brisas de Berlín",
+          "title": "Brisas de Berlín | Berlín, Usulután",
           "url": "https://www.instagram.com/hostalbrisasdeberlin/"
         },
         {
           "id": "la_fuente_berlin",
-          "title": "Hotel la Fuente",
+          "title": "Hotel la Fuente | Berlín, Usulután",
           "url": "https://www.facebook.com/profile.php?id=100065575595811"
         },
         {
           "id": "the_palace_berlin",
-          "title": "Hotel The Palace",
+          "title": "Hotel The Palace | Berlín, Usulután",
           "url": "https://www.booking.com/hotel/sv/the-palace.es.html"
         },
         {
           "id": "finca_paniagua_berlin",
-          "title": "Finca Paniagua",
+          "title": "Finca Paniagua | Berlín, Usulután",
           "url": "https://maps.app.goo.gl/AKTcBozucdDX83r78"
         },
         {
           "id": "palo_verde_el_zonte",
-          "title": "Palo Verde",
+          "title": "Palo Verde | El Zonte, La Libertad",
           "url": "https://paloverdehotel.com"
         },
         {
           "id": "beach_break_el_zonte",
-          "title": "Beach Break",
+          "title": "Beach Break | El Zonte, La Libertad",
           "url": "https://thebeachbreakhotel.com/?lang=en"
         },
         {
           "id": "olas_permanentes_el_zonte",
-          "title": "Olas Permanentes",
+          "title": "Olas Permanentes | El Zonte, La Libertad",
           "url": "https://olaspermanentes.surf"
         },
         {
           "id": "michanti_el_zonte",
-          "title": "Michanti",
+          "title": "Michanti | El Zonte, La Libertad",
           "url": "https://hotelmichanti.com"
         }
       ]
@@ -257,37 +257,37 @@
       "places": [
         {
           "id": "cherito_cafe_san_salvador",
-          "title": "Cherito Café",
+          "title": "Cherito Café | San Salvador, San Salvador",
           "url": "https://x.com/CheritoCafe"
         },
         {
           "id": "good_beans_cafe_san_salvador",
-          "title": "Good Beans Café",
+          "title": "Good Beans Café | San Salvador, San Salvador",
           "url": "https://x.com/CheritoCafe"
         },
         {
           "id": "cafe_303_berlin",
-          "title": "Café 303",
+          "title": "Café 303 | Berlín, Usulután",
           "url": "https://maps.app.goo.gl/JDz1JNabQGtrwquSA"
         },
         {
           "id": "good_coffee_berlin",
-          "title": "Good Coffee",
+          "title": "Good Coffee | Berlín, Usulután",
           "url": "https://maps.app.goo.gl/wW3qnsJTndRxLt3E7"
         },
         {
           "id": "canegue_cafe_el_zonte",
-          "title": "Canegue Cafe",
+          "title": "Canegue Cafe | El Zonte, La Libertad",
           "url": "https://g.co/kgs/C1tyD7v"
         },
         {
           "id": "point_break_cafe_el_zonte",
-          "title": "Point Break Cafe",
+          "title": "Point Break Cafe | El Zonte, La Libertad",
           "url": "https://g.co/kgs/nxWc8eS"
         },
         {
           "id": "awilda_el_zonte",
-          "title": "awilda",
+          "title": "awilda | El Zonte, La Libertad",
           "url": "https://www.instagram.com/awilda.sv"
         }
       ]
@@ -298,17 +298,17 @@
       "places": [
         {
           "id": "parque_balboa_los_planes_san_salvador",
-          "title": "Balboa Park",
+          "title": "Balboa Park | San Salvador, San Salvador",
           "url": "https://maps.app.goo.gl/35KQfLR2SpvJgvxy9"
         },
         {
           "id": "ecoparque_berlin",
-          "title": "Eco Parque",
+          "title": "Eco Parque | Berlín, Usulután",
           "url": "https://maps.app.goo.gl/4d24LfndFRgnuBz57"
         },
         {
           "id": "parque_berlin",
-          "title": "Parque de Berlín",
+          "title": "Parque de Berlín | Berlín, Usulután",
           "url": "https://maps.app.goo.gl/FW6NVLdmSnJbw58y8"
         }
       ]
@@ -319,17 +319,17 @@
       "places": [
         {
           "id": "surfing_four_years_el_zonte",
-          "title": "Surfing Four Years",
+          "title": "Surfing Four Years | El Zonte, La Libertad",
           "url": "https://www.surfingyourfears.com"
         },
         {
           "id": "escuela_de_surf_el_zonte",
-          "title": "Escuela de Surf El Zonte",
+          "title": "Escuela de Surf El Zonte | El Zonte, La Libertad",
           "url": "https://www.instagram.com/schoolgoodsurfelzonte"
         },
         {
           "id": "los_tres_hermanos_el_zonte",
-          "title": "Escuela de Surf Los 3 Hermanos",
+          "title": "Escuela de Surf Los 3 Hermanos | El Zonte, La Libertad",
           "url": "https://www.los3hermanos.surf"
         }
       ]
