@@ -1,0 +1,74 @@
+{
+  "id": "san_salvador",
+  "title": "San Salvador",
+  "legend": "San Salvador, the capital of El Salvador, is a lively city rich in culture and history. It's home to important landmarks, vibrant markets, and offers a blend of urban energy and natural beauty, making it a key destination for travelers exploring Central America.",
+  "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31011.625923137763!2d-89.21748352820603!3d13.690976997363252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f633067b411775d%3A0x1f75978893fb5c96!2sSan%20Salvador!5e0!3m2!1ses!2ssv!4v1724556217629!5m2!1ses!2ssv",
+  "places": [
+    {
+      "id": "accomodation",
+      "title": "Accomodation",
+      "places": [
+        {
+          "id": "hostal_cielo_azul_san_salvador",
+          "title": "Hostal Cielo Azul",
+          "url": "https://www.facebook.com/profile.php?id=100063623800680"
+        },
+        {
+          "id": "la_zona_hostel_san_salvador",
+          "title": "La Zona Hostel",
+          "url": "http://www.zonahostel.com/"
+        },
+        {
+          "id": "hotel_sueños_san_salvador",
+          "title": "Hotel Sueños",
+          "url": "https://maps.app.goo.gl/bdRhxK8TbErBrrS46"
+        }
+      ]
+    },
+    {
+      "id": "restaurants",
+      "title": "Restaurants",
+      "places": [
+        {
+          "id": "acajutla_bambu_san_salvador",
+          "title": "Restaurant Acajutla",
+          "url": "https://restauranteacajutla.com"
+        },
+        {
+          "id": "el_xolo_san_salvador",
+          "title": "El Xolo",
+          "url": "https://elxolomaiz.com"
+        }
+      ]
+    },
+    {
+      "id": "cafes",
+      "title": "Cafes",
+      "places": [
+        {
+          "id": "cherito_cafe_san_salvador",
+          "title": "Cherito Café",
+          "url": "https://x.com/CheritoCafe"
+        },
+        {
+          "id": "good_beans_cafe_san_salvador",
+          "title": "Good Beans Café",
+          "url": "https://x.com/CheritoCafe"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "parks",
+      "title": "Parks",
+      "places": [
+        {
+          "id": "parque_balboa_los_planes_san_salvador",
+          "title": "Balboa Park",
+          "url": "https://maps.app.goo.gl/35KQfLR2SpvJgvxy9"
+        }
+      ]
+    }
+  ]
+}

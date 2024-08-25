@@ -1,0 +1,49 @@
+{
+  "id": "",
+  "title": "",
+  "legend": "",
+  "map_url": "",
+  "community": {
+    "id": "",
+    "legend": "",
+    "leaders": [
+      {
+        "id": "",
+        "name": "",
+        "role": ""
+      }
+    ],
+    "social": {
+      "website": "",
+      "twitter": "",
+      "instagram": "",
+      "facebook": ""
+    }
+  },
+  "places": [
+    {
+      "id": "",
+      "title": "",
+      "places": [
+        {
+          "id": "",
+          "title": "",
+          "url": ""
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "",
+      "title": "",
+      "places": [
+        {
+          "id": "",
+          "title": "",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
