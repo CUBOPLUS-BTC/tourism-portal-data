@@ -1,39 +1,297 @@
 {
-    "events": [{
-        "title": "Adopting Bitcoin 2024",
-        "type": "Conference",
-        "start": "2024-11-15",
-        "end": "2024-11-17",
-        "location": "Nuevo Cuscatlán",
-        "url": "https://sv24.adoptingbitcoin.org"
-    }],
-    "communities": [{
-        "destination": "berlin",
-        "id": "bitcoin_berlin",
-        "name": "Bitcoin Berlín",
-        "location": "Berlín, Usulután"
+  "recurringEvents": [
+    {
+      "title": "Bitcoin Beach dinner",
+      "location": "El Zonte",
+      "rrule": {
+        "freq": "monthly",
+        "byweekday": ["FR"],
+        "dtstart": "2024-08-01T18:30:00"
+      },
+      "duration": "03:00",
+      "className": "dark:text-white",
+      "link": "https://www.eventbrite.com/o/bitcoin-beach-64308388513"
     },
     {
-        "destination": "el_zonte",
-        "id": "bitcoin_beach",
-        "name": "Bitcoin Beach",
-        "location": "El Zonte, La Libertad"
-    }],
-    "destinations": [{
-        "id": "el_zonte",
-        "title": "El Zonte",
-        "location": "La Libertad, El Salvador"
-    }],
-    "onboard": [{
-        "id": "accomodation",
-        "title": "Accomodation",
-        "places": [{
-            "id": "palo_verde",
-            "title": "Palo Verde",
-            "legend": "Sustainable Hotel",
-            "destination": "el_zonte",
-            "location": "El Zonte, La Libertad",
-            "url": "https://paloverdehotel.com"
-        }]
-    }]
+      "title": "Bitcoin Beach meetup",
+      "location": "Palo Verde, El Zonte",
+      "rrule": {
+        "freq": "monthly",
+        "byweekday": ["FR"],
+        "bysetpos": [-1],
+        "dtstart": "2024-08-01T17:00:00"
+      },
+      "duration": "03:00",
+      "className": "dark:text-white",
+      "link": "https://www.eventbrite.com/o/bitcoin-beach-64308388513"
+    },
+    {
+      "title": "BTC Farmers Market",
+      "location": "El Zonte",
+      "rrule": {
+        "freq": "weekly",
+        "interval": 2,
+        "byweekday": ["SU"],
+        "dtstart": "2024-08-01T08:00:00"
+      },
+      "duration": "06:00",
+      "className": "dark:text-white",
+      "link": "https://x.com/btcfarmersmrkt"
+    },
+    {
+      "title": "MPB Open House",
+      "location": "Frente a Promed, C. de La Loma 5123, San Salvador",
+      "rrule": {
+        "freq": "weekly",
+        "byweekday": ["TU"],
+        "dtstart": "2024-08-01T14:00:00"
+      },
+      "duration": "05:00",
+      "className": "dark:text-white",
+      "link": "https://x.com/MyfirstBitcoin_"
+    },
+    {
+      "title": "Berlín weekly meetup",
+      "location": "Berlín, Usulutan",
+      "rrule": {
+        "freq": "weekly",
+        "byweekday": ["MO"],
+        "dtstart": "2024-08-01T18:30:00"
+      },
+      "duration": "01:00",
+      "className": "dark:text-white",
+      "link": "https://x.com/BitcoinBerlinSV"
+    },
+    {
+      "title": "Bitcoin casual meetup",
+      "location": "San Salvador, San Salvador",
+      "rrule": {
+        "freq": "weekly",
+        "byweekday": ["TU"],
+        "dtstart": "2024-08-01T19:00:00"
+      },
+      "duration": "03:00",
+      "className": "dark:text-white",
+      "link": "https://x.com/MyfirstBitcoin_"
+    },
+    {
+      "title": "Bitcoin board games",
+      "location": "Frente a Promed, C. de La Loma 5123, San Salvador",
+      "rrule": {
+        "freq": "weekly",
+        "interval": 2,
+        "byweekday": ["WE"],
+        "dtstart": "2024-08-01T18:00:00"
+      },
+      "duration": "03:00",
+      "className": "dark:text-white",
+      "link": "https://x.com/MyfirstBitcoin_"
+    },
+    {
+      "title": "NOSTR Devs",
+      "location": "San Salvador, San Salvador",
+      "rrule": {
+        "freq": "monthly",
+        "byweekday": ["WE"],
+        "bysetpos": [-1],
+        "dtstart": "2024-08-01T17:00:00"
+      },
+      "duration": "02:00",
+      "className": "dark:text-white",
+      "link": "https://x.com/illuminodes"
+    }
+  ],
+  "events": [
+    {
+      "title": "Adopting Bitcoin 2024",
+      "location": "San Salvador, San Salvador",
+      "start": "2024-11-15",
+      "end": "2024-11-16",
+      "className": "dark:text-white",
+      "link": "https://x.com/illuminodes"
+    }
+  ],
+  "communities": [
+    {
+      "destination": "berlin",
+      "id": "bitcoin_berlin",
+      "name": "Bitcoin Berlín",
+      "location": "Berlín, Usulután"
+    },
+    {
+      "destination": "el_zonte",
+      "id": "bitcoin_beach",
+      "name": "Bitcoin Beach",
+      "location": "El Zonte, La Libertad"
+    }
+  ],
+  "destinations": [
+    {
+      "id": "el_zonte",
+      "title": "El Zonte",
+      "location": "La Libertad, El Salvador"
+    }
+  ],
+  "onboard": [
+    {
+      "id": "accomodation",
+      "title": "Accomodation",
+      "places": [
+        {
+          "id": "brisas_de_berlin_berlin",
+          "title": "Brisas de Berlín",
+          "url": "https://www.instagram.com/hostalbrisasdeberlin/"
+        },
+        {
+          "id": "la_fuente_berlin",
+          "title": "Hotel la Fuente",
+          "url": "https://www.facebook.com/profile.php?id=100065575595811"
+        },
+        {
+          "id": "the_palace_berlin",
+          "title": "Hotel The Palace",
+          "url": "https://www.booking.com/hotel/sv/the-palace.es.html"
+        },
+        {
+          "id": "finca_paniagua_berlin",
+          "title": "Finca Paniagua",
+          "url": "https://maps.app.goo.gl/AKTcBozucdDX83r78"
+        },
+        {
+          "id": "palo_verde_el_zonte",
+          "title": "Palo Verde",
+          "url": "https://paloverdehotel.com"
+        },
+        {
+          "id": "beach_break_el_zonte",
+          "title": "Beach Break",
+          "url": "https://thebeachbreakhotel.com/?lang=en"
+        },
+        {
+          "id": "olas_permanentes_el_zonte",
+          "title": "Olas Permanentes",
+          "url": "https://olaspermanentes.surf"
+        },
+        {
+          "id": "michanti_el_zonte",
+          "title": "Michanti",
+          "url": "https://hotelmichanti.com"
+        }
+      ]
+    },
+    {
+      "id": "restaurants",
+      "title": "Restaurants",
+      "places": [
+        {
+          "id": "mexicana_martitas_berlin",
+          "title": "Mexican Food Martitas",
+          "url": "https://maps.app.goo.gl/yfuaiEzkhF4FsmPA6"
+        },
+        {
+          "id": "comedor_marlens_berlin",
+          "title": "Comedor Marlens",
+          "url": "https://maps.app.goo.gl/urzXhLEALpfkAifeA"
+        },
+        {
+          "id": "fast_delivery_pizza_berlin",
+          "title": "Fast Delivery Pizza",
+          "url": "https://maps.app.goo.gl/uaB51yVFMKsdRY8J8"
+        },
+        {
+          "id": "rustico_grill_drinks_berlin",
+          "title": "Rústico Grill-Drinks",
+          "url": "https://www.facebook.com/profile.php?id=100055602850064"
+        },
+        {
+          "id": "olor_de_mar_pacifico_el_zonte",
+          "title": "Olor de Mar Pacífico",
+          "url": "https://www.instagram.com/olordemarrestaurante/"
+        },
+        {
+          "id": "covana_sea_side_el_zonte",
+          "title": "Covana Seaside Kitchen",
+          "url": "https://www.purosurf.com/restaurant"
+        },
+        {
+          "id": "nan_tal_el_zonte",
+          "title": "Nan Tal",
+          "url": "https://nantalcocina.com"
+        },
+        {
+          "id": "vista_mar_zonte_restaurante_el_zonte",
+          "title": "Vista Mar Zonte Restaurante",
+          "url": "https://www.facebook.com/profile.php?id=100063681005830&mibextid=ZbWKwL"
+        }
+      ]
+    },
+    {
+      "id": "cafes",
+      "title": "Cafes",
+      "places": [
+        {
+          "id": "cafe_303_berlin",
+          "title": "Café 303",
+          "url": "https://maps.app.goo.gl/JDz1JNabQGtrwquSA"
+        },
+        {
+          "id": "good_coffee_berlin",
+          "title": "Good Coffee",
+          "url": "https://maps.app.goo.gl/wW3qnsJTndRxLt3E7"
+        },
+        {
+          "id": "canegue_cafe_el_zonte",
+          "title": "Canegue Cafe",
+          "url": "https://g.co/kgs/C1tyD7v"
+        },
+        {
+          "id": "point_break_cafe_el_zonte",
+          "title": "Point Break Cafe",
+          "url": "https://g.co/kgs/nxWc8eS"
+        },
+        {
+          "id": "awilda_el_zonte",
+          "title": "awilda",
+          "url": "https://www.instagram.com/awilda.sv"
+        }
+      ]
+    },
+    {
+      "id": "parks",
+      "title": "Parks",
+      "places": [
+        {
+          "id": "ecoparque_berlin",
+          "title": "Eco Parque",
+          "url": "https://maps.app.goo.gl/4d24LfndFRgnuBz57"
+        },
+        {
+          "id": "parque_berlin",
+          "title": "Parque de Berlín",
+          "url": "https://maps.app.goo.gl/FW6NVLdmSnJbw58y8"
+        }
+      ]
+    },
+    {
+      "id": "surf_lessons",
+      "title": "Surf Lessons",
+      "places": [
+        {
+          "id": "surfing_four_years_el_zonte",
+          "title": "Surfing Four Years",
+          "url": "https://www.surfingyourfears.com"
+        },
+        {
+          "id": "escuela_de_surf_el_zonte",
+          "title": "Escuela de Surf El Zonte",
+          "url": "https://www.instagram.com/schoolgoodsurfelzonte"
+        },
+        {
+          "id": "los_3_hermanos_el_zonte",
+          "title": "Escuela de Surf Los 3 Hermanos",
+          "url": "https://www.los3hermanos.surf"
+        }
+      ]
+    }
+  ]
 }
