@@ -1,0 +1,83 @@
+{
+  "id": "san_miguel",
+  "title": "San Miguel",
+  "legend": "San Miguel, located in eastern El Salvador, blends history, culture, and natural beauty. Its iconic volcano offers stunning views, while the city comes alive with celebrations like the renowned San Miguel Carnival, one of the largest in the region. It's a perfect destination for those seeking nature and tradition.",
+  "map_url": "https://maps.app.goo.gl/NzphJchF9AghPGxH6",
+  "community": {
+    "id": "bitcoin_oriente",
+    "title": "Bitcoin Oriente",
+    "legend": "Bitcoin Oriente is a recent initiative launched in 2024 in San Miguel. Its goal is to create a circular economy in the eastern part of the country, providing training to small and medium-sized businesses to help them understand the benefits of accepting Bitcoin payments.",
+    "slogan": "Empowering the new era",
+    "leaders": [
+      {
+        "id": "alejandro_galan",
+        "name": "Alejandro Galán",
+        "role": "Co-Founder"
+      }
+    ],
+    "social": {
+      "website": "",
+      "twitter": "https://x.com/BitcoinOriente",
+      "instagram": "",
+      "facebook": ""
+    }
+  },
+  "places": [
+    {
+      "id": "accomodation",
+      "title": "Accomodation",
+      "places": [
+        {
+          "id": "hotel_casa_grande",
+          "title": "Hotel Casa Grande",
+          "url": "https://www.instagram.com/hostalbrisasdeberlin/"
+        }
+      ]
+    },
+    {
+      "id": "restaurants",
+      "title": "Restaurants",
+      "places": [
+        {
+          "id": "cadejo_san_miguel",
+          "title": "Cadejo Brewing Company",
+          "url": "https://maps.app.goo.gl/yfuaiEzkhF4FsmPA6"
+        },
+        {
+          "id": "la_pampa_san_miguel",
+          "title": "LaPampa San Miguel",
+          "url": "https://maps.app.goo.gl/urzXhLEALpfkAifeA"
+        }
+      ]
+    },
+    {
+      "id": "cafes",
+      "title": "Cafes",
+      "places": [
+        {
+          "id": "twenty_gramos",
+          "title": "Café 20 gramos",
+          "url": "https://maps.app.goo.gl/JDz1JNabQGtrwquSA"
+        },
+        {
+          "id": "Topiari Cafe",
+          "title": "Good Coffee",
+          "url": "https://maps.app.goo.gl/wW3qnsJTndRxLt3E7"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "parks",
+      "title": "Parks",
+      "places": [
+        {
+          "id": "Parque de San Miguel",
+          "title": "Parque de San Miguel",
+          "url": "https://maps.app.goo.gl/4d24LfndFRgnuBz57"
+        }
+      ]
+    }
+  ]
+}

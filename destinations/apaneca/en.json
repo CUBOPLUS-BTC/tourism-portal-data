@@ -1,0 +1,79 @@
+{
+  "id": "apaneca",
+  "title": "Apaneca",
+  "legend": "Apaneca, one of the places with the coolest climate in El Salvador. Apaneca is part of the Ruta de las Flores, located in the department of Ahuachapán, and boasts the highest quality coffee harvested in the same area. Without a doubt, this destination is the best for ecotourism lovers and outdoor activities.",
+  "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7747.2127857618!2d-89.80156945!3d13.8626495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f62bc4dd3b16a35%3A0x56b4e32c32558b0a!2sApaneca!5e0!3m2!1ses-419!2ssv!4v1726003192732!5m2!1ses-419!2ssv",
+  "places": [
+    {
+      "id": "accomodation",
+      "title": "Accomodation",
+      "places": [
+        {
+          "id": "jardin_hostal_apaneca",
+          "title": "Jardín Hostal",
+          "url": "https://www.facebook.com/profile.php?id=100063623800680"
+        },
+        {
+          "id": "las_cabanas_de_apaneca",
+          "title": "Las Cabañas de Apaneca",
+          "url": "http://www.zonahostel.com/"
+        }
+      ]
+    },
+    {
+      "id": "restaurants",
+      "title": "Restaurants",
+      "places": [
+        {
+          "id": "texixal_apaneca",
+          "title": "Texixal Apaneca",
+          "url": "https://www.facebook.com/texixal"
+        },
+        {
+          "id": "la_pampa_ataco",
+          "title": "La Pampa Ataco-Apaneca",
+          "url": "https://www.facebook.com/lapampa.ataco"
+        },
+        {
+          "id": "plaza_turística_apanecatl",
+          "title": "Plaza Turística Apanecatl",
+          "url": "https://maps.app.goo.gl/yuzke9SRSJ6qZX7H6"
+        }
+      ]
+    },
+    {
+      "id": "cafes",
+      "title": "Cafes",
+      "places": [
+        {
+          "id": "ecole_cafe_apaneca",
+          "title": "Ecole Café & Bistró Apanecat",
+          "url": "https://www.facebook.com/EcoleCafe.sv/"
+        },
+        {
+          "id": "cafe_don_licho_apaneca",
+          "title": "Don Licho Coffee & Bistro",
+          "url": "https://www.facebook.com/DonLichoCoffee/"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "parks",
+      "title": "Parks",
+      "places": [
+        {
+          "id": "laberinto_de_albania",
+          "title": "Albania Labyrinth",
+          "url": "https://g.co/kgs/CDbpdS2"
+        },
+        {
+          "id": "parque_central_de_apaneca",
+          "title": "Parque Central de Apanceca",
+          "url": "https://maps.app.goo.gl/VeTgZahsKLRU7PT88"
+        }
+      ]
+    }
+  ]
+}
