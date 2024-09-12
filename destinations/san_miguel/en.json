@@ -28,9 +28,9 @@
       "title": "Accomodation",
       "places": [
         {
-          "id": "hotel_casa_grande",
+          "id": "casa_grande_san_miguel",
           "title": "Hotel Casa Grande",
-          "url": "https://www.instagram.com/hostalbrisasdeberlin/"
+          "url": "https://www.facebook.com/hotelcasagrand"
         }
       ]
     },
@@ -41,12 +41,12 @@
         {
           "id": "cadejo_san_miguel",
           "title": "Cadejo Brewing Company",
-          "url": "https://maps.app.goo.gl/yfuaiEzkhF4FsmPA6"
+          "url": "https://g.co/kgs/rKVtush"
         },
         {
           "id": "la_pampa_san_miguel",
           "title": "LaPampa San Miguel",
-          "url": "https://maps.app.goo.gl/urzXhLEALpfkAifeA"
+          "url": "https://g.co/kgs/ipx7H2t"
         }
       ]
     },
@@ -55,14 +55,14 @@
       "title": "Cafes",
       "places": [
         {
-          "id": "twenty_gramos",
+          "id": "twenty_gramos_san_miguel",
           "title": "Café 20 gramos",
-          "url": "https://maps.app.goo.gl/JDz1JNabQGtrwquSA"
+          "url": "https://www.instagram.com/20gramos.sv"
         },
         {
-          "id": "Topiari Cafe",
-          "title": "Good Coffee",
-          "url": "https://maps.app.goo.gl/wW3qnsJTndRxLt3E7"
+          "id": "topiari_san_miguel",
+          "title": "Topiari San Miguel",
+          "url": "https://www.instagram.com/topiaricafe/"
         }
       ]
     }
@@ -75,7 +75,7 @@
         {
           "id": "Parque de San Miguel",
           "title": "Parque de San Miguel",
-          "url": "https://maps.app.goo.gl/4d24LfndFRgnuBz57"
+          "url": "https://g.co/kgs/fNUsUhh"
         }
       ]
     }

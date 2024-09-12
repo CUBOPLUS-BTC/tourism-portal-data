@@ -10,13 +10,13 @@
       "places": [
         {
           "id": "jardin_hostal_apaneca",
-          "title": "Jardín Hostal",
+          "title": "Jardín Hostal Apaneca",
           "url": "https://www.facebook.com/profile.php?id=100063623800680"
         },
         {
-          "id": "las_cabanas_de_apaneca",
+          "id": "las_cabanas_apaneca",
           "title": "Las Cabañas de Apaneca",
-          "url": "http://www.zonahostel.com/"
+          "url": "https://cabanasapaneca.com/"
         }
       ]
     },
@@ -30,12 +30,12 @@
           "url": "https://www.facebook.com/texixal"
         },
         {
-          "id": "la_pampa_ataco",
+          "id": "la_pampa_apaneca",
           "title": "La Pampa Ataco-Apaneca",
           "url": "https://www.facebook.com/lapampa.ataco"
         },
         {
-          "id": "plaza_turística_apanecatl",
+          "id": "plaza_turística_apaneca",
           "title": "Plaza Turística Apanecatl",
           "url": "https://maps.app.goo.gl/yuzke9SRSJ6qZX7H6"
         }
@@ -64,12 +64,12 @@
       "title": "Parks",
       "places": [
         {
-          "id": "laberinto_de_albania",
+          "id": "laberinto_albania_apaneca",
           "title": "Albania Labyrinth",
           "url": "https://g.co/kgs/CDbpdS2"
         },
         {
-          "id": "parque_central_de_apaneca",
+          "id": "parque_apaneca",
           "title": "Parque Central de Apanceca",
           "url": "https://maps.app.goo.gl/VeTgZahsKLRU7PT88"
         }
