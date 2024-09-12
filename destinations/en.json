@@ -123,6 +123,12 @@
       "id": "bitcoin_beach",
       "name": "Bitcoin Beach",
       "location": "El Zonte, La Libertad"
+    },
+    {
+      "destination": "san_miguel",
+      "id": "bitcoin_oriente",
+      "name": "Bitcoin Oriente",
+      "location": "San Miguel, San Miguel"
     }
   ],
   "destinations": [
@@ -131,6 +137,12 @@
       "title": "San Salvador",
       "legend": "San Salvador, the capital of El Salvador, is a lively city rich in culture and history. It's home to important landmarks, vibrant markets, and offers a blend of urban energy and natural beauty, making it a key destination for travelers exploring Central America.",
       "location": "San Salvador, El Salvador"
+    },
+    {
+      "id": "apaneca",
+      "title": "Apaneca",
+      "legend": "Apaneca, one of the places with the coolest climate in El Salvador. Apaneca is part of the Ruta de las Flores, located in the department of Ahuachapán, and boasts the highest quality coffee harvested in the same area. Without a doubt, this destination is the best for ecotourism lovers and outdoor activities..",
+      "location": "Apaneca, Ahuachapán"
     }
   ],
   "onboard": [
@@ -192,6 +204,21 @@
           "id": "michanti_el_zonte",
           "title": "Michanti | El Zonte, La Libertad",
           "url": "https://hotelmichanti.com"
+        },
+        {
+          "id": "jardin_hostal_apaneca",
+          "title": "Jardín Hostal Apaneca | Apaneca, Ahuachapán",
+          "url": "https://www.facebook.com/profile.php?id=100063623800680"
+        },
+        {
+          "id": "las_cabanas_apaneca",
+          "title": "Las Cabañas de Apaneca | Apaneca, Ahuachapán",
+          "url": "https://cabanasapaneca.com/"
+        },
+        {
+          "id": "casa_grande_san_miguel",
+          "title": "Hotel Casa Grande | San Miguel, San Miguel",
+          "url": "https://www.facebook.com/hotelcasagrand"
         }
       ]
     },
@@ -248,6 +275,31 @@
           "id": "vista_mar_zonte_restaurante_el_zonte",
           "title": "Vista Mar Zonte Restaurante | El Zonte, La Libertad",
           "url": "https://www.facebook.com/profile.php?id=100063681005830&mibextid=ZbWKwL"
+        },
+        {
+          "id": "texixal_apaneca",
+          "title": "Texixal Apaneca | Apaneca, Ahuachapán",
+          "url": "https://www.facebook.com/texixal"
+        },
+        {
+          "id": "la_pampa_apaneca",
+          "title": "La Pampa Ataco - Apaneca | Apaneca, Ahuachapán",
+          "url": "https://www.facebook.com/lapampa.ataco"
+        },
+        {
+          "id": "plaza_turistica_apaneca",
+          "title": "Plaza Turística Apaneca | Apaneca, Ahuachapán",
+          "url": "https://maps.app.goo.gl/yuzke9SRSJ6qZX7H6"
+        },
+        {
+          "id": "cadejo_san_miguel",
+          "title": "Cadejo Brewing Company | San Miguel, San Miguel",
+          "url": "https://g.co/kgs/rKVtush"
+        },
+        {
+          "id": "la_pampa_san_miguel",
+          "title": "La Pampa San Miguel | San Miguel, San Miguel",
+          "url": "https://g.co/kgs/ipx7H2t"
         }
       ]
     },
@@ -289,6 +341,26 @@
           "id": "awilda_el_zonte",
           "title": "awilda | El Zonte, La Libertad",
           "url": "https://www.instagram.com/awilda.sv"
+        },
+        {
+          "id": "ecole_cafe_apaneca",
+          "title": "Ecole Café & Bistró | Apaneca, Ahuachapán",
+          "url": "https://www.facebook.com/EcoleCafe.sv/"
+        },
+        {
+          "id": "cafe_don_licho_apaneca",
+          "title": "Don Licho Coffee | Apaneca, Ahuachapán",
+          "url": "https://www.facebook.com/DonLichoCoffee/"
+        },
+        {
+          "id": "twenty_gramos_san_miguel",
+          "title": "Café 20 gramos | San Miguel, San Miguel",
+          "url": "https://www.instagram.com/20gramos.sv"
+        },
+        {
+          "id": "topiari_san_miguel",
+          "title": "Topiari San Miguel | San Miguel, San Miguel",
+          "url": "https://www.instagram.com/topiaricafe/"
         }
       ]
     },
@@ -310,6 +382,21 @@
           "id": "parque_berlin",
           "title": "Parque de Berlín | Berlín, Usulután",
           "url": "https://maps.app.goo.gl/FW6NVLdmSnJbw58y8"
+        }, 
+        {
+          "id": "laberinto_albania_apaneca",
+          "title": "Laberinto de Albania | Apaneca, Ahuachapán",
+          "url": "https://g.co/kgs/CDbpdS2"
+        },
+        {
+          "id": "parque_apaneca",
+          "title": "Parque de Apanceca | Apaneca, Ahuachapán",
+          "url": "https://maps.app.goo.gl/VeTgZahsKLRU7PT88"
+        },
+        {
+          "id": "parque_san_miguel",
+          "title": "Parque de San Miguel | San Miguel, San Miguel",
+          "url": "https://g.co/kgs/fNUsUhh"
         }
       ]
     },
