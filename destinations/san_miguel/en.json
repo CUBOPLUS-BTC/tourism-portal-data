@@ -2,7 +2,7 @@
   "id": "san_miguel",
   "title": "San Miguel",
   "legend": "San Miguel, located in eastern El Salvador, blends history, culture, and natural beauty. Its iconic volcano offers stunning views, while the city comes alive with celebrations like the renowned San Miguel Carnival, one of the largest in the region. It's a perfect destination for those seeking nature and tradition.",
-  "map_url": "https://maps.app.goo.gl/NzphJchF9AghPGxH6",
+  "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d496413.0373032492!2d-88.99743057181239!3d13.582947661908026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f7b2a70bc830dab%3A0x76ac9c406eec5592!2sSan%20Miguel!5e0!3m2!1ses-419!2ssv!4v1726108290278!5m2!1ses-419!2ssv",
   "community": {
     "id": "bitcoin_oriente",
     "title": "Bitcoin Oriente",
@@ -45,7 +45,7 @@
         },
         {
           "id": "la_pampa_san_miguel",
-          "title": "LaPampa San Miguel",
+          "title": "La Pampa San Miguel",
           "url": "https://g.co/kgs/ipx7H2t"
         }
       ]
@@ -73,7 +73,7 @@
       "title": "Parks",
       "places": [
         {
-          "id": "Parque de San Miguel",
+          "id": "parque_san_miguel",
           "title": "Parque de San Miguel",
           "url": "https://g.co/kgs/fNUsUhh"
         }
