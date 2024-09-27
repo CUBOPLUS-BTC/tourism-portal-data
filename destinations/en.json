@@ -109,6 +109,14 @@
       "end": "2024-11-16",
       "className": "dark:text-white",
       "link": "https://sv24.adoptingbitcoin.org"
+    },
+     {
+      "title": "Bitcoin Educators Unconference",
+      "location": "San Salvador, San Salvador",
+      "start": "2024-11-14",
+      "end": "2024-11-14",
+      "className": "dark:text-white",
+      "link": "https://bitcoinunconference.com/"
     }
   ],
   "communities": [
