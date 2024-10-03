@@ -144,13 +144,15 @@
       "id": "san_salvador",
       "title": "San Salvador",
       "legend": "San Salvador, the capital of El Salvador, is a lively city rich in culture and history. It's home to important landmarks, vibrant markets, and offers a blend of urban energy and natural beauty, making it a key destination for travelers exploring Central America.",
-      "location": "San Salvador, El Salvador"
+      "location": "San Salvador, El Salvador",
+      "button": "See more"
     },
     {
       "id": "apaneca",
       "title": "Apaneca",
       "legend": "Apaneca, one of the places with the coolest climate in El Salvador. Apaneca is part of the Ruta de las Flores, located in the department of Ahuachapán, and boasts the highest quality coffee harvested in the same area. Without a doubt, this destination is the best for ecotourism lovers and outdoor activities..",
-      "location": "Apaneca, Ahuachapán"
+      "location": "Apaneca, Ahuachapán",
+      "button": "See more"
     }
   ],
   "onboard": [

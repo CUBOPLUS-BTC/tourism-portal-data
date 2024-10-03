@@ -144,13 +144,15 @@
       "id": "san_salvador",
       "title": "San Salvador",
       "legend": "エルサルバドルの首都サンサルバドルは、文化と歴史に富んだ活気ある都市です。中央アメリカを探検する旅行者にとって重要な目的地となっています。",
-      "location": "San Salvador, El Salvador"
+      "location": "San Salvador, El Salvador",
+      "button": "もっと見る"
     },
     {
       "id": "apaneca",
       "title": "Apaneca",
       "legend": "アパネカは、エルサルバドルで最も涼しい気候の場所の一つです。アパネカはアウアチャパン県に位置し、ルタ・デ・ラス・フローレスの一部であり、同じ地域で収穫される最高品質のコーヒーを誇っています。アパネカはエコツーリズムやアウトドア活動を愛する人々にとって素晴らしい目的地です。",
-      "location": "Apaneca, Ahuachapán"
+      "location": "Apaneca, Ahuachapán",
+      "button": "もっと見る"
     }
   ],
   "onboard": [
