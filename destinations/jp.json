@@ -1,0 +1,433 @@
+{
+  "recurringEvents": [
+    {
+      "title": "Bitcoin Beach dinner",
+      "location": "El Zonte",
+      "rrule": {
+        "freq": "monthly",
+        "byweekday": ["FR"],
+        "dtstart": "2024-08-01T18:30:00"
+      },
+      "duration": "03:00",
+      "className": "dark:text-white",
+      "link": "https://www.eventbrite.com/o/bitcoin-beach-64308388513"
+    },
+    {
+      "title": "Bitcoin Beach meetup",
+      "location": "Palo Verde, El Zonte",
+      "rrule": {
+        "freq": "monthly",
+        "byweekday": ["FR"],
+        "bysetpos": [-1],
+        "dtstart": "2024-08-01T17:00:00"
+      },
+      "duration": "03:00",
+      "className": "dark:text-white",
+      "link": "https://www.eventbrite.com/o/bitcoin-beach-64308388513"
+    },
+    {
+      "title": "BTC Farmers Market",
+      "location": "El Zonte",
+      "rrule": {
+        "freq": "weekly",
+        "interval": 2,
+        "byweekday": ["SU"],
+        "dtstart": "2024-08-01T08:00:00"
+      },
+      "duration": "06:00",
+      "className": "dark:text-white",
+      "link": "https://x.com/btcfarmersmrkt"
+    },
+    {
+      "title": "MPB Open House",
+      "location": "Frente a Promed, C. de La Loma 5123, San Salvador",
+      "rrule": {
+        "freq": "weekly",
+        "byweekday": ["TU"],
+        "dtstart": "2024-08-01T14:00:00"
+      },
+      "duration": "05:00",
+      "className": "dark:text-white",
+      "link": "https://x.com/MyfirstBitcoin_"
+    },
+    {
+      "title": "Berlín weekly meetup",
+      "location": "Berlín, Usulutan",
+      "rrule": {
+        "freq": "weekly",
+        "byweekday": ["MO"],
+        "dtstart": "2024-08-01T18:30:00"
+      },
+      "duration": "01:00",
+      "className": "dark:text-white",
+      "link": "https://x.com/BitcoinBerlinSV"
+    },
+    {
+      "title": "Bitcoin casual meetup",
+      "location": "San Salvador, San Salvador",
+      "rrule": {
+        "freq": "weekly",
+        "byweekday": ["TU"],
+        "dtstart": "2024-08-01T19:00:00"
+      },
+      "duration": "03:00",
+      "className": "dark:text-white",
+      "link": "https://x.com/MyfirstBitcoin_"
+    },
+    {
+      "title": "Bitcoin board games",
+      "location": "Frente a Promed, C. de La Loma 5123, San Salvador",
+      "rrule": {
+        "freq": "weekly",
+        "interval": 2,
+        "byweekday": ["WE"],
+        "dtstart": "2024-08-01T18:00:00"
+      },
+      "duration": "03:00",
+      "className": "dark:text-white",
+      "link": "https://x.com/MyfirstBitcoin_"
+    },
+    {
+      "title": "NOSTR Devs",
+      "location": "San Salvador, San Salvador",
+      "rrule": {
+        "freq": "monthly",
+        "byweekday": ["WE"],
+        "bysetpos": [-1],
+        "dtstart": "2024-08-01T17:00:00"
+      },
+      "duration": "02:00",
+      "className": "dark:text-white",
+      "link": "https://x.com/illuminodes"
+    }
+  ],
+  "events": [
+    {
+      "title": "Adopting Bitcoin 2024",
+      "location": "San Salvador, San Salvador",
+      "start": "2024-11-15",
+      "end": "2024-11-16",
+      "className": "dark:text-white",
+      "link": "https://sv24.adoptingbitcoin.org"
+    },
+     {
+      "title": "Bitcoin Educators Unconference",
+      "location": "San Salvador, San Salvador",
+      "start": "2024-11-14",
+      "end": "2024-11-14",
+      "className": "dark:text-white",
+      "link": "https://bitcoinunconference.com/"
+    }
+  ],
+  "communities": [
+    {
+      "destination": "berlin",
+      "id": "bitcoin_berlin",
+      "name": "ビットコインベルリン",
+      "location": "Berlín, Usulután"
+    },
+    {
+      "destination": "el_zonte",
+      "id": "bitcoin_beach",
+      "name": "ビットコインビーチ",
+      "location": "El Zonte, La Libertad"
+    },
+    {
+      "destination": "san_miguel",
+      "id": "bitcoin_oriente",
+      "name": "ビットコインオリエンテ",
+      "location": "San Miguel, San Miguel"
+    }
+  ],
+  "destinations": [
+    {
+      "id": "san_salvador",
+      "title": "San Salvador",
+      "legend": "エルサルバドルの首都サンサルバドルは、文化と歴史に富んだ活気ある都市です。中央アメリカを探検する旅行者にとって重要な目的地となっています。",
+      "location": "San Salvador, El Salvador"
+    },
+    {
+      "id": "apaneca",
+      "title": "Apaneca",
+      "legend": "アパネカは、エルサルバドルで最も涼しい気候の場所の一つです。アパネカはアウアチャパン県に位置し、ルタ・デ・ラス・フローレスの一部であり、同じ地域で収穫される最高品質のコーヒーを誇っています。アパネカはエコツーリズムやアウトドア活動を愛する人々にとって素晴らしい目的地です。",
+      "location": "Apaneca, Ahuachapán"
+    }
+  ],
+  "onboard": [
+    {
+      "id": "accomodation",
+      "title": "宿泊施設",
+      "places": [
+        {
+          "id": "hostal_cielo_azul_san_salvador",
+          "title": "Hostal Cielo Azul | San Salvador, San Salvador",
+          "url": "https://www.facebook.com/profile.php?id=100063623800680"
+        },
+        {
+          "id": "la_zona_hostel_san_salvador",
+          "title": "La Zona Hostel | San Salvador, San Salvador",
+          "url": "http://www.zonahostel.com/"
+        },
+        {
+          "id": "hotel_sueños_san_salvador",
+          "title": "Hotel Sueños | San Salvador, San Salvador",
+          "url": "https://maps.app.goo.gl/bdRhxK8TbErBrrS46"
+        },
+        {
+          "id": "brisas_de_berlin_berlin",
+          "title": "Brisas de Berlín | Berlín, Usulután",
+          "url": "https://www.instagram.com/hostalbrisasdeberlin/"
+        },
+        {
+          "id": "la_fuente_berlin",
+          "title": "Hotel la Fuente | Berlín, Usulután",
+          "url": "https://www.facebook.com/profile.php?id=100065575595811"
+        },
+        {
+          "id": "the_palace_berlin",
+          "title": "Hotel The Palace | Berlín, Usulután",
+          "url": "https://www.booking.com/hotel/sv/the-palace.es.html"
+        },
+        {
+          "id": "finca_paniagua_berlin",
+          "title": "Finca Paniagua | Berlín, Usulután",
+          "url": "https://maps.app.goo.gl/AKTcBozucdDX83r78"
+        },
+        {
+          "id": "palo_verde_el_zonte",
+          "title": "Palo Verde | El Zonte, La Libertad",
+          "url": "https://paloverdehotel.com"
+        },
+        {
+          "id": "beach_break_el_zonte",
+          "title": "Beach Break | El Zonte, La Libertad",
+          "url": "https://thebeachbreakhotel.com/?lang=en"
+        },
+        {
+          "id": "olas_permanentes_el_zonte",
+          "title": "Olas Permanentes | El Zonte, La Libertad",
+          "url": "https://olaspermanentes.surf"
+        },
+        {
+          "id": "michanti_el_zonte",
+          "title": "Michanti | El Zonte, La Libertad",
+          "url": "https://hotelmichanti.com"
+        },
+        {
+          "id": "jardin_hostal_apaneca",
+          "title": "Jardín Hostal Apaneca | Apaneca, Ahuachapán",
+          "url": "https://www.facebook.com/profile.php?id=100063623800680"
+        },
+        {
+          "id": "las_cabanas_apaneca",
+          "title": "Las Cabañas de Apaneca | Apaneca, Ahuachapán",
+          "url": "https://cabanasapaneca.com/"
+        },
+        {
+          "id": "casa_grande_san_miguel",
+          "title": "Hotel Casa Grande | San Miguel, San Miguel",
+          "url": "https://www.facebook.com/hotelcasagrand"
+        }
+      ]
+    },
+    {
+      "id": "restaurants",
+      "title": "レストラン",
+      "places": [
+        {
+          "id": "acajutla_bambu_san_salvador",
+          "title": "Restaurant Acajutla | San Salvador, San Salvador",
+          "url": "https://restauranteacajutla.com"
+        },
+        {
+          "id": "el_xolo_san_salvador",
+          "title": "El Xolo | San Salvador, San Salvador",
+          "url": "https://elxolomaiz.com"
+        },
+        {
+          "id": "mexicana_martitas_berlin",
+          "title": "Mexican Food Martitas | Berlín, Usulután",
+          "url": "https://maps.app.goo.gl/yfuaiEzkhF4FsmPA6"
+        },
+        {
+          "id": "comedor_marlens_berlin",
+          "title": "Comedor Marlens | Berlín, Usulután",
+          "url": "https://maps.app.goo.gl/urzXhLEALpfkAifeA"
+        },
+        {
+          "id": "fast_delivery_pizza_berlin",
+          "title": "Fast Delivery Pizza | Berlín, Usulután",
+          "url": "https://maps.app.goo.gl/uaB51yVFMKsdRY8J8"
+        },
+        {
+          "id": "rustico_grill_drinks_berlin",
+          "title": "Rústico Grill-Drinks | Berlín, Usulután",
+          "url": "https://www.facebook.com/profile.php?id=100055602850064"
+        },
+        {
+          "id": "olor_de_mar_pacifico_el_zonte",
+          "title": "Olor de Mar Pacífico | El Zonte, La Libertad",
+          "url": "https://www.instagram.com/olordemarrestaurante/"
+        },
+        {
+          "id": "covana_sea_side_el_zonte",
+          "title": "Covana Seaside Kitchen | El Zonte, La Libertad",
+          "url": "https://www.purosurf.com/restaurant"
+        },
+        {
+          "id": "nan_tal_el_zonte",
+          "title": "Nan Tal | El Zonte, La Libertad",
+          "url": "https://nantalcocina.com"
+        },
+        {
+          "id": "vista_mar_zonte_restaurante_el_zonte",
+          "title": "Vista Mar Zonte Restaurante | El Zonte, La Libertad",
+          "url": "https://www.facebook.com/profile.php?id=100063681005830&mibextid=ZbWKwL"
+        },
+        {
+          "id": "texixal_apaneca",
+          "title": "Texixal Apaneca | Apaneca, Ahuachapán",
+          "url": "https://www.facebook.com/texixal"
+        },
+        {
+          "id": "la_pampa_apaneca",
+          "title": "La Pampa Ataco - Apaneca | Apaneca, Ahuachapán",
+          "url": "https://www.facebook.com/lapampa.ataco"
+        },
+        {
+          "id": "plaza_turistica_apaneca",
+          "title": "Plaza Turística Apaneca | Apaneca, Ahuachapán",
+          "url": "https://maps.app.goo.gl/yuzke9SRSJ6qZX7H6"
+        },
+        {
+          "id": "cadejo_san_miguel",
+          "title": "Cadejo Brewing Company | San Miguel, San Miguel",
+          "url": "https://g.co/kgs/rKVtush"
+        },
+        {
+          "id": "la_pampa_san_miguel",
+          "title": "La Pampa San Miguel | San Miguel, San Miguel",
+          "url": "https://g.co/kgs/ipx7H2t"
+        }
+      ]
+    },
+    {
+      "id": "cafes",
+      "title": "カフェ",
+      "places": [
+        {
+          "id": "cherito_cafe_san_salvador",
+          "title": "Cherito Café | San Salvador, San Salvador",
+          "url": "https://x.com/CheritoCafe"
+        },
+        {
+          "id": "good_beans_cafe_san_salvador",
+          "title": "Good Beans Café | San Salvador, San Salvador",
+          "url": "https://maps.app.goo.gl/YwRMqJ1HnncSHHbW6"
+        },
+        {
+          "id": "cafe_303_berlin",
+          "title": "Café 303 | Berlín, Usulután",
+          "url": "https://maps.app.goo.gl/JDz1JNabQGtrwquSA"
+        },
+        {
+          "id": "good_coffee_berlin",
+          "title": "Good Coffee | Berlín, Usulután",
+          "url": "https://maps.app.goo.gl/wW3qnsJTndRxLt3E7"
+        },
+        {
+          "id": "canegue_cafe_el_zonte",
+          "title": "Canegue Cafe | El Zonte, La Libertad",
+          "url": "https://g.co/kgs/C1tyD7v"
+        },
+        {
+          "id": "point_break_cafe_el_zonte",
+          "title": "Point Break Cafe | El Zonte, La Libertad",
+          "url": "https://g.co/kgs/nxWc8eS"
+        },
+        {
+          "id": "awilda_el_zonte",
+          "title": "awilda | El Zonte, La Libertad",
+          "url": "https://www.instagram.com/awilda.sv"
+        },
+        {
+          "id": "ecole_cafe_apaneca",
+          "title": "Ecole Café & Bistró | Apaneca, Ahuachapán",
+          "url": "https://www.facebook.com/EcoleCafe.sv/"
+        },
+        {
+          "id": "cafe_don_licho_apaneca",
+          "title": "Don Licho Coffee | Apaneca, Ahuachapán",
+          "url": "https://www.facebook.com/DonLichoCoffee/"
+        },
+        {
+          "id": "twenty_gramos_san_miguel",
+          "title": "Café 20 gramos | San Miguel, San Miguel",
+          "url": "https://www.instagram.com/20gramos.sv"
+        },
+        {
+          "id": "topiari_san_miguel",
+          "title": "Topiari San Miguel | San Miguel, San Miguel",
+          "url": "https://www.instagram.com/topiaricafe/"
+        }
+      ]
+    },
+    {
+      "id": "parks",
+      "title": "公園",
+      "places": [
+        {
+          "id": "parque_balboa_los_planes_san_salvador",
+          "title": "Balboa Park | San Salvador, San Salvador",
+          "url": "https://maps.app.goo.gl/35KQfLR2SpvJgvxy9"
+        },
+        {
+          "id": "ecoparque_berlin",
+          "title": "Eco Parque | Berlín, Usulután",
+          "url": "https://maps.app.goo.gl/4d24LfndFRgnuBz57"
+        },
+        {
+          "id": "parque_berlin",
+          "title": "Parque de Berlín | Berlín, Usulután",
+          "url": "https://maps.app.goo.gl/FW6NVLdmSnJbw58y8"
+        }, 
+        {
+          "id": "laberinto_albania_apaneca",
+          "title": "Laberinto de Albania | Apaneca, Ahuachapán",
+          "url": "https://g.co/kgs/CDbpdS2"
+        },
+        {
+          "id": "parque_apaneca",
+          "title": "Parque de Apanceca | Apaneca, Ahuachapán",
+          "url": "https://maps.app.goo.gl/VeTgZahsKLRU7PT88"
+        },
+        {
+          "id": "parque_san_miguel",
+          "title": "Parque de San Miguel | San Miguel, San Miguel",
+          "url": "https://g.co/kgs/fNUsUhh"
+        }
+      ]
+    },
+    {
+      "id": "surfing",
+      "title": "サーフィン",
+      "places": [
+        {
+          "id": "surfing_four_years_el_zonte",
+          "title": "Surfing Four Years | El Zonte, La Libertad",
+          "url": "https://www.surfingyourfears.com"
+        },
+        {
+          "id": "escuela_de_surf_el_zonte",
+          "title": "Escuela de Surf El Zonte | El Zonte, La Libertad",
+          "url": "https://www.instagram.com/schoolgoodsurfelzonte"
+        },
+        {
+          "id": "los_tres_hermanos_el_zonte",
+          "title": "Escuela de Surf Los 3 Hermanos | El Zonte, La Libertad",
+          "url": "https://www.los3hermanos.surf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "san_miguel",
+  "title": "San Miguel",
+  "legend": "エルサルバドルの東部に位置するサンミゲルは、歴史、文化、自然の美しさを融合させています。象徴的な火山は素晴らしい景色を提供し、市内では地域最大の一つである有名なサンミゲルカーニバルなどの祝祭で賑わいます。自然と伝統を求める人々にとって理想的な目的地です。",
+  "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d496413.0373032492!2d-88.99743057181239!3d13.582947661908026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f7b2a70bc830dab%3A0x76ac9c406eec5592!2sSan%20Miguel!5e0!3m2!1ses-419!2ssv!4v1726108290278!5m2!1ses-419!2ssv",
+  "community": {
+    "id": "bitcoin_oriente",
+    "title": "ビットコインオリエンテ",
+    "legend": "ビットコインオリエンテは、2024年にサンミゲルで開始された最近のイニシアチブです。その目的は、国の東部で循環経済（サーキュラーエコノミー）を創造し、中小企業にトレーニングを提供して、ビットコイン決済を受け入れるメリットを理解してもらうことです。",
+    "slogan": "新しい時代に力を与える",
+    "leaders": [
+      {
+        "id": "alejandro_galan",
+        "name": "Alejandro Galán",
+        "role": "共同創業者"
+      }
+    ],
+    "social": {
+      "website": "",
+      "twitter": "https://x.com/BitcoinOriente",
+      "instagram": "",
+      "facebook": ""
+    }
+  },
+  "places": [
+    {
+      "id": "accomodation",
+      "title": "宿泊施設",
+      "places": [
+        {
+          "id": "casa_grande_san_miguel",
+          "title": "Hotel Casa Grande",
+          "url": "https://www.facebook.com/hotelcasagrand"
+        }
+      ]
+    },
+    {
+      "id": "restaurants",
+      "title": "レストラン",
+      "places": [
+        {
+          "id": "cadejo_san_miguel",
+          "title": "Cadejo Brewing Company",
+          "url": "https://g.co/kgs/rKVtush"
+        },
+        {
+          "id": "la_pampa_san_miguel",
+          "title": "La Pampa San Miguel",
+          "url": "https://g.co/kgs/ipx7H2t"
+        }
+      ]
+    },
+    {
+      "id": "cafes",
+      "title": "カフェ",
+      "places": [
+        {
+          "id": "twenty_gramos_san_miguel",
+          "title": "Café 20 gramos",
+          "url": "https://www.instagram.com/20gramos.sv"
+        },
+        {
+          "id": "topiari_san_miguel",
+          "title": "Topiari San Miguel",
+          "url": "https://www.instagram.com/topiaricafe/"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "parks",
+      "title": "公園",
+      "places": [
+        {
+          "id": "parque_san_miguel",
+          "title": "Parque de San Miguel",
+          "url": "https://g.co/kgs/fNUsUhh"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "el_zonte",
+  "title": "El Zonte",
+  "legend": "エルゾンテは、素晴らしい夕日、完璧な波、そしてププサで有名な美しいビーチタウンです。",
+  "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3879.6221574894516!2d-89.44298077346878!3d13.497364736868553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f7d2b00a48b9f39%3A0xf1bc8bfa589f5ec4!2sEl%20Zonte!5e0!3m2!1ses!2ssv!4v1722567163425!5m2!1ses!2ssv",
+  "community": {
+    "id": "bitcoin_beach",
+    "title": "ビットコインビーチ",
+    "legend": "ビットコインビーチは、エルサルバドルにおけるビットコイン導入の始まりでした。2019年以来、ビットコインビーチはビーチ全体で商店にビットコインを広めてきました。現在、ビットコインビーチはエルサルバドルで最も強力なビットコインコミュニティの1つとして位置づけられています。",
+    "slogan": "世界の金融システムを根底から覆した小さなプロジェクト",
+    "leaders": [{
+      "id": "roman_martinez",
+      "name": "Roman Martínez",
+      "role": "共同創業者"
+    },
+    {
+      "id": "mike_peterson",
+      "name": "Mike Peterson",
+      "role": "共同創業者"
+    },
+    {
+      "id": "pete_desoto",
+      "name": "Pete DeSoto",
+      "role": "共同創業者"
+    }],
+    "social": {
+      "website": "https://www.bitcoinbeach.com",
+      "twitter": "https://x.com/Bitcoinbeach",
+      "instagram": "https://www.instagram.com/bitcoinbeach_sv/",
+      "facebook": "https://www.facebook.com/Bitcoinbeachsv"
+    }
+  },
+  "places": [
+    {
+      "id": "accomodation",
+      "title": "宿泊施設",
+      "places": [
+        {
+          "id": "palo_verde_el_zonte",
+          "title": "Palo Verde",
+          "url": "https://paloverdehotel.com"
+        },
+        {
+          "id": "beach_break_el_zonte",
+          "title": "Beach Break",
+          "url": "https://thebeachbreakhotel.com/?lang=en"
+        },
+        {
+          "id": "olas_permanentes_el_zonte",
+          "title": "Olas Permanentes",
+          "url": "https://olaspermanentes.surf"
+        },
+        {
+          "id": "michanti_el_zonte",
+          "title": "Michanti",
+          "url": "https://hotelmichanti.com"
+        }
+      ]
+    },
+    {
+      "id": "restaurants",
+      "title": "レストラン",
+      "places": [
+        {
+          "id": "olor_de_mar_pacifico_el_zonte",
+          "title": "Olor de Mar Pacífico",
+          "url": "https://www.instagram.com/olordemarrestaurante/"
+        },
+        {
+          "id": "covana_sea_side_el_zonte",
+          "title": "Covana Seaside Kitchen",
+          "url": "https://www.purosurf.com/restaurant"
+        },
+        {
+          "id": "nan_tal_el_zonte",
+          "title": "Nan Tal",
+          "url": "https://nantalcocina.com"
+        },
+        {
+          "id": "vista_mar_zonte_restaurante_el_zonte",
+          "title": "Vista Mar Zonte Restaurante",
+          "url": "https://www.facebook.com/profile.php?id=100063681005830&mibextid=ZbWKwL"
+        }
+      ]
+    },
+    {
+      "id": "cafes",
+      "title": "カフェ",
+      "places": [
+        {
+          "id": "canegue_cafe_el_zonte",
+          "title": "Canegue Cafe",
+          "url": "https://g.co/kgs/C1tyD7v"
+        },
+        {
+          "id": "point_break_cafe_el_zonte",
+          "title": "Point Break Cafe",
+          "url": "https://g.co/kgs/nxWc8eS"
+        },
+        {
+          "id": "awilda_el_zonte",
+          "title": "awilda",
+          "url": "https://www.instagram.com/awilda.sv"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "surfing",
+      "title": "公園",
+      "places": [
+        {
+          "id": "surfing_four_years_el_zonte",
+          "title": "Surfing Four Years",
+          "url": "https://www.surfingyourfears.com"
+        },
+        {
+          "id": "escuela_de_surf_el_zonte",
+          "title": "Escuela de Surf El Zonte",
+          "url": "https://www.instagram.com/schoolgoodsurfelzonte"
+        },
+        {
+          "id": "los_tres_hermanos_el_zonte",
+          "title": "Escuela de Surf Los 3 Hermanos",
+          "url": "https://www.los3hermanos.surf"
+        }
+      ]
+    }
+  ]
+}

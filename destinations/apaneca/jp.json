@@ -1,0 +1,79 @@
+{
+  "id": "apaneca",
+  "title": "Apaneca",
+  "legend": "アパネカは、エルサルバドルで最も涼しい気候の場所の一つです。アパネカはアウアチャパン県に位置し、ルタ・デ・ラス・フローレスの一部であり、同じ地域で収穫される最高品質のコーヒーを誇っています。アパネカはエコツーリズムやアウトドア活動を愛する人々にとって素晴らしい目的地です。",
+  "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7747.2127857618!2d-89.80156945!3d13.8626495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f62bc4dd3b16a35%3A0x56b4e32c32558b0a!2sApaneca!5e0!3m2!1ses-419!2ssv!4v1726003192732!5m2!1ses-419!2ssv",
+  "places": [
+    {
+      "id": "accomodation",
+      "title": "宿泊施設",
+      "places": [
+        {
+          "id": "jardin_hostal_apaneca",
+          "title": "Jardín Hostal Apaneca",
+          "url": "https://www.facebook.com/profile.php?id=100063623800680"
+        },
+        {
+          "id": "las_cabanas_apaneca",
+          "title": "Las Cabañas de Apaneca",
+          "url": "https://cabanasapaneca.com/"
+        }
+      ]
+    },
+    {
+      "id": "restaurants",
+      "title": "レストラン",
+      "places": [
+        {
+          "id": "texixal_apaneca",
+          "title": "Texixal Apaneca",
+          "url": "https://www.facebook.com/texixal"
+        },
+        {
+          "id": "la_pampa_apaneca",
+          "title": "La Pampa Ataco - Apaneca",
+          "url": "https://www.facebook.com/lapampa.ataco"
+        },
+        {
+          "id": "plaza_turistica_apaneca",
+          "title": "Plaza Turística Apaneca",
+          "url": "https://maps.app.goo.gl/yuzke9SRSJ6qZX7H6"
+        }
+      ]
+    },
+    {
+      "id": "cafes",
+      "title": "カフェ",
+      "places": [
+        {
+          "id": "ecole_cafe_apaneca",
+          "title": "Ecole Café & Bistró",
+          "url": "https://www.facebook.com/EcoleCafe.sv/"
+        },
+        {
+          "id": "cafe_don_licho_apaneca",
+          "title": "Don Licho Coffee",
+          "url": "https://www.facebook.com/DonLichoCoffee/"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "parks",
+      "title": "公園",
+      "places": [
+        {
+          "id": "laberinto_albania_apaneca",
+          "title": "Laberinto de Albania",
+          "url": "https://g.co/kgs/CDbpdS2"
+        },
+        {
+          "id": "parque_apaneca",
+          "title": "Parque de Apanceca",
+          "url": "https://maps.app.goo.gl/VeTgZahsKLRU7PT88"
+        }
+      ]
+    }
+  ]
+}
