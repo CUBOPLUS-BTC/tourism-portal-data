@@ -117,6 +117,14 @@
       "end": "2024-11-14",
       "className": "dark:text-white",
       "link": "https://bitcoinunconference.com/"
+    },
+     {
+      "title": "Festival El Salvador",
+      "location": "Berlín, Usulután",
+      "start": "2024-11-23",
+      "end": "2024-11-23",
+      "className": "dark:text-white",
+      "link": "https://x.com/BitcoinBerlinSV"
     }
   ],
   "communities": [
